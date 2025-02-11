@@ -5,12 +5,12 @@
 ### A novice programmer passionate about building beautiful, functional, and amazing programs.
 
 ## 🌱 I’m currently learning :
--**Godot**
--**Machine learning**
--**New programming languages**
+- **Godot**
+- **Machine learning**
+- **New programming languages**
 
 
-## Languages:
+## Programming Languages I know:
 <br>
 
 <p>
@@ -19,11 +19,11 @@
 
 <hr>
 
-## Projects I'm working on:
--[Mnt](https://github.com/Fire-Frog-Fuel/mnt): A terminal-based Python chat room.
+## 💻 Projects I'm working on:
+- [Mnt](https://github.com/Fire-Frog-Fuel/mnt): A terminal-based Python chat room.
 
-### Contact
-- 💬 Feel like working on a project together? Or do you want to chat? Find me on Discord:
+### 💬 Contact
+- Feel like working on a project together? Or do you want to chat? Find me on Discord:
    @kitian_youlanka
 
 

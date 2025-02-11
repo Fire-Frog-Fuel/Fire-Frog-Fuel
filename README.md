@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **[Godot]**
 - 💬 Feel like working on a project together? Or want to chat? Find me on discord:
-  #@kitian_youlanka
+  # @kitian_youlanka
 
 ## Languges:
 <br>

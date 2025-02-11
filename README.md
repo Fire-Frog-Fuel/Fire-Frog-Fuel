@@ -10,14 +10,15 @@
 
 ### A novice programmer passionate about building beautiful, functional, and amazing programs.
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Feel like working on a project together? Or want to chat? Find me on discord *[here](https://discord.com/users/:716926698116874310)**
+- 🌱 I’m currently learning **[Godot]**
+- 💬 Feel like working on a project together? Or want to chat? Find me on discord:
+  #@kitian_youlanka
 
+##Languges:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 <hr>

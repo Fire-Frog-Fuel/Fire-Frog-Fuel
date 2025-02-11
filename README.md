@@ -14,7 +14,7 @@
 - 💬 Feel like working on a project together? Or want to chat? Find me on discord:
   #@kitian_youlanka
 
-##Languges:
+## Languges:
 <br>
 
 <p align="center">

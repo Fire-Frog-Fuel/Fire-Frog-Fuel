@@ -2,26 +2,30 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=5c459e&duration=4000&lines=Hi+There!+👋;+I'm+Paikito+!;" />
 </h1>
 
-
-
-
-
-
-
 ### A novice programmer passionate about building beautiful, functional, and amazing programs.
 
-- 🌱 I’m currently learning **[Godot]**
-- 💬 Feel like working on a project together? Or want to chat? Find me on discord:
-  # @kitian_youlanka
+## 🌱 I’m currently learning :
+-**Godot**
+-**Machine learning**
+-**New programming languages**
 
-## Languges:
+
+## Languages:
 <br>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 <hr>
+
+## Projects I'm working on:
+-([Mnt][https://github.com/Fire-Frog-Fuel/mnt]): A terminal-based Python chat room.
+
+### Contact
+- 💬 Feel like working on a project together? Or do you want to chat? Find me on Discord:
+   @kitian_youlanka
+
 
 ## ⚡️ Stats
 

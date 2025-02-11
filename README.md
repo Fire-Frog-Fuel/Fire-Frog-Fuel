@@ -20,7 +20,7 @@
 <hr>
 
 ## Projects I'm working on:
--([Mnt][https://github.com/Fire-Frog-Fuel/mnt]): A terminal-based Python chat room.
+-[Mnt](https://github.com/Fire-Frog-Fuel/mnt): A terminal-based Python chat room.
 
 ### Contact
 - 💬 Feel like working on a project together? Or do you want to chat? Find me on Discord:

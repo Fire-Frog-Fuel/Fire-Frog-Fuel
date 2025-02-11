@@ -10,7 +10,7 @@
 - **New programming languages**
 
 
-## Programming Languages I know:
+## 💡 Programming Languages I know:
 <br>
 
 <p>

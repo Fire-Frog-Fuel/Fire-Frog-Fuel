@@ -8,10 +8,10 @@
 
 
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### A novice programmer passionate about building beautiful, functional, and amazing programs.
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 💬 Feel like working on a project together? Or want to chat? Find me on discord *[here](https://discord.com/users/:716926698116874310)**
 
 <br>
 

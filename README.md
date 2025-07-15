@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=5c459e&duration=4000&lines=Hi+There!+👋;+I'm+Paikito+!;" />
 </h1>
 
-### A novice programmer passionate about building beautiful, functional, and amazing programs.
+### A 16 year old programmer trying to make life a bit more efficient.
 
 ## 🌱 I’m currently learning :
 - **Godot**
@@ -10,22 +10,23 @@
 - **New programming languages**
 
 
-## 💡 Programming Languages:
-<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+## 💡 Languages:
+- Python
+- Html
 
-<hr>
-
-## 💻 Projects I'm working on:
+## 💻 Currently working on:
+-[gradeboundaries.com](https://gradeboundaries.com):A website showcase a level grade boundaries tables and graphs.
 - [Mnt](https://github.com/Fire-Frog-Fuel/mnt): A terminal-based Python chat room.
 
 ### 💬 Contact
 - Feel like working on a project together? Or do you want to chat? Find me on Discord:
    @kitian_youlanka
 
+##  🔭 Obtained skills through my projects
+- ability to use python library socket for multi device communication over LAN
+- use of threading
+- ability to maintain a functional website
 
 ## ⚡️ Stats
 
@@ -46,7 +47,7 @@
 <!--
 
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

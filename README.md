@@ -16,10 +16,10 @@
 - Html
 
 ## 💻 Currently working on:
-- [gradeboundaries.com](https://gradeboundaries.com):A website showcase a level grade boundaries tables and graphs.
+- [gradeboundaries.com](https://gradeboundaries.com): A website showcasing A level grade boundaries tables and graphs.
 - [Mnt](https://github.com/Fire-Frog-Fuel/mnt): A terminal-based Python chat room.
 
-### 💬 Contact
+## 💬 Contact
 - Feel like working on a project together? Or do you want to chat? Find me on Discord:
    @kitian_youlanka
 

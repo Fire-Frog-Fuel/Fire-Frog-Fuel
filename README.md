@@ -16,7 +16,7 @@
 - Html
 
 ## 💻 Currently working on:
--[gradeboundaries.com](https://gradeboundaries.com):A website showcase a level grade boundaries tables and graphs.
+- [gradeboundaries.com](https://gradeboundaries.com):A website showcase a level grade boundaries tables and graphs.
 - [Mnt](https://github.com/Fire-Frog-Fuel/mnt): A terminal-based Python chat room.
 
 ### 💬 Contact

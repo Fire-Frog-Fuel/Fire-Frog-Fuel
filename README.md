@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=5c459e&duration=4000&lines=Hi+There!+👋;+I'm+Paikito+!;" />
 </h1>
 
-### A 16 year old programmer trying to make life a bit more efficient.
+# A 16 year old programmer trying to make life a bit more efficient.
 
 ## 🌱 I’m currently learning :
 - **Godot**
